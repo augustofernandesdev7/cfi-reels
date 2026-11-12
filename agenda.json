@@ -18,5 +18,15 @@
     "cover_url": "https://augustofernandesdev7.github.io/cfi-reels/baumgartner-estratosfera/capa.jpg",
     "caption": "Em 14 de outubro de 2012, um homem saltou de cerca de 39 km de altura, perto de Roswell, no Novo México.\n\nSegundo a FAI, ele saltou de 38.969,4 m e chegou a 1.357,6 km/h (Mach 1,25). O que o manteve vivo: um traje pressurizado (cerca de 3,5 psi, segundo a Popular Science) com oxigênio puro e visor aquecido, porque a cerca de 19 km (a Linha de Armstrong, segundo a NASA) a água ferve até na temperatura do corpo. Um balão de hélio com mais de 800 mil m³ e filme dez vezes mais fino que um saco plástico (Guinness, Scientific American) o levou lá em cima. A queda livre durou cerca de 4 min 20 s e cobriu mais de 36 km. O giro foi o maior perigo, e ele recuperou o controle. Em cerca de 9 minutos ele estava no chão.\n\nA FAI confirmou três recordes. A altitude foi superada em 2014, mas a velocidade e a distância de queda livre seguem sem ser batidas.\n\nQuer fazer vídeos assim? Comenta 3D e me segue: o link vai direto no seu direct.\n\nFontes: FAI, NASA, Guinness, Scientific American, Popular Science, Associated Press.\n\nSiga @comofuncionaisso_\n\n#salto #estratosfera #felixbaumgartner #comofunciona #ciencia",
     "status": "pendente"
+  },
+  {
+    "id": "nvidia-gpu",
+    "slug": "nvidia-gpu",
+    "titulo": "Nvidia e a GPU",
+    "publish_at": "2026-11-12T15:00:00-03:00",
+    "video_url": "https://augustofernandesdev7.github.io/cfi-reels/nvidia-gpu/video.mp4",
+    "cover_url": "https://augustofernandesdev7.github.io/cfi-reels/nvidia-gpu/capa.jpg",
+    "caption": "Hoje (12/11/2026), a Nvidia informou à SEC, em formulário 8-K, que Jensen Huang deixou os cargos de presidente, CEO e conselheiro, com efeito imediato. Colette Kress, diretora financeira, assume como CEO interina e o conselho nomeou Harvey C. Jones como presidente do conselho. A empresa não detalhou os motivos.\n\nDias antes, o conselho abriu uma investigação sobre relatos da imprensa americana de que o CEO teria sido alvo de uma operação de inteligência estrangeira. Isso não foi comprovado, e o governo chinês nega.\n\nE a engenharia? Segundo a Intel, um Core i9 tem 24 núcleos. Segundo a Nvidia, a placa H100 tem 16.896 núcleos CUDA, 80 bilhões de transistores, 80 GB de memória HBM3 e consome até 700 W. Multiplicar duas tabelas de 4.096 por 4.096 números exige cerca de 137 bilhões de operações (conta do canal: 2 x 4.096³). A H100 faz perto de mil trilhões de operações por segundo no pico teórico, e essa conta sai em cerca de 140 milionésimos de segundo.\n\nEste vídeo é informativo e não é recomendação de investimento. Alegações não comprovadas estão atribuídas às suas fontes.\n\nFontes: SEC (formulário 8-K da Nvidia, 12/11/2026), CNBC (8/11/2026), New York Times e Financial Times (relatos, citados pela CNBC), SCMP e China Daily (9/11/2026), Nvidia (página da H100 e blog técnico da arquitetura Hopper), Intel (ficha do Core i9-14900K).\n\nSiga @comofuncionaisso_ para ver como outras coisas funcionam.\n\n#nvidia #inteligenciaartificial #gpu #comofunciona #tecnologia",
+    "status": "pendente"
   }
 ]
