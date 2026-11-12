@@ -1,0 +1,13 @@
+[
+  {
+    "id": "teste-a1",
+    "slug": "teste-a1",
+    "titulo": "Teste do agendador",
+    "publish_at": "2026-11-11T23:15:49-03:00",
+    "video_url": "https://augustofernandesdev7.github.io/cfi-reels/teste-a1/video.mp4",
+    "cover_url": "https://augustofernandesdev7.github.io/cfi-reels/teste-a1/capa.jpg",
+    "caption": "TESTE",
+    "status": "pendente",
+    "dry_run": true
+  }
+]
