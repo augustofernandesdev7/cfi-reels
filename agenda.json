@@ -103,11 +103,11 @@
     "id": "mega-sena-bolao",
     "slug": "mega-sena-bolao",
     "titulo": "Mega-Sena: o bolão",
-    "publish_at": "2026-11-15T13:00:00-03:00",
+    "publish_at": "2026-11-15T15:00:00-03:00",
     "video_url": "https://augustofernandesdev7.github.io/cfi-reels/mega-sena-bolao/video.mp4",
     "cover_url": "https://augustofernandesdev7.github.io/cfi-reels/mega-sena-bolao/capa.jpg",
     "caption": "O bolão aumenta a sua chance na Mega-Sena? A conta do canal mostra o que muda e o que não muda.\n\nA conta, passo a passo:\n1. A chance da sena (6 números) é de 1 em 50.063.860, e o jogo simples custa R$ 6,00 (Caixa).\n2. Exemplo do canal: 6 amigos, uma cota de R$ 7 cada (na Caixa, a cota do bolão começa em R$ 7,00) somam R$ 42, que pagam 7 jogos de seis números. Pela tabela da Caixa, uma aposta de 7 números também custa R$ 42,00 e tem chance de 1 em 7.151.980 na sena.\n3. Só que o prêmio é dividido em 6 partes: chance 7 vezes maior, fatia 6 vezes menor. O retorno esperado sobe 1/6, e o custo também (R$ 7 em vez de R$ 6). Por real gasto, a chance esperada não muda.\n4. A parte que ninguém conta: a lotérica pode cobrar uma tarifa de serviço de até 35% sobre o valor da cota (Caixa). Uma cota de R$ 7 pode sair por R$ 9,45 (7 x 1,35).\n5. Uma aposta de 8 números custa R$ 168,00 (Caixa). Dividida entre 6 amigos, são R$ 28 cada. O bolão serve para dividir o custo, não para aumentar a chance esperada de cada pessoa.\n\nOs valores de prêmio do vídeo são só um exemplo de conta (R$ 120 milhões dividido por 6), não uma previsão.\n\nManda para quem organiza o bolão do trabalho.\n\nConteúdo educativo de matemática, não é incentivo a apostas. Jogos de azar: +18.\n\nFontes: Caixa Econômica Federal, página oficial da Mega-Sena (loterias.caixa.gov.br): tabela de preços e probabilidades de acerto (6 números R$ 6,00, 7 números R$ 42,00, 8 números R$ 168,00) e regras do bolão (cota a partir de R$ 7,00, tarifa de serviço adicional de até 35% do valor da cota). As demais contas são do canal.\n\nSegue o canal para ver como outras coisas funcionam.\n\n#megasena #bolao #matematica #probabilidade #curiosidades",
-    "status": "cancelado"
+    "status": "pendente"
   },
   {
     "id": "mega-sena-nao-resgatado",
