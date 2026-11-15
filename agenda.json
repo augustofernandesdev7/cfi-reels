@@ -100,6 +100,16 @@
     "status": "pendente"
   },
   {
+    "id": "mega-sena-repetidos",
+    "slug": "mega-sena-repetidos",
+    "titulo": "Mega-Sena: números repetidos",
+    "publish_at": "2026-11-15T12:15:00-03:00",
+    "video_url": "https://augustofernandesdev7.github.io/cfi-reels/mega-sena-repetidos/video.mp4",
+    "cover_url": "https://augustofernandesdev7.github.io/cfi-reels/mega-sena-repetidos/capa.jpg",
+    "caption": "Por que sempre saem números repetidos na Mega-Sena? A conta que desfaz a desconfiança\n\nA conta do canal: a chance de pelo menos um dos 6 números do sorteio anterior sair de novo é 1 - C(54,6)/C(60,6) = 1 - 25.827.165 / 50.063.860 = 48,4%. Ou seja, quase metade dos sorteios repete algum número. Repetir exatamente 1 número: 37,9%; 2: 9,5%; 3 ou mais: 1,0% (conferido em Python). Média esperada: 6 x 6/60 = 0,6 número repetido por sorteio.\n\nDados reais (API oficial da Caixa, concursos 3035 a 3085): nos últimos 50 sorteios, cada um comparado com o anterior, houve 31 números repetidos (média de 0,62) e 25 sorteios com pelo menos um repetido (50%). Nos últimos 20, a média foi 0,4: com poucos sorteios, o resultado oscila.\n\nNúmero atrasado não existe na conta: cada sorteio é independente. Segundo a Caixa, as bolas são de borracha maciça, com 66 g e 50 mm, e auditores independentes e um instituto de metrologia acompanham os sorteios (Caixa, via gov.br/Secom). O sorteio também sai ao vivo na internet (Aratuon, 11/01/2026). A sequência 1-2-3-4-5-6 tem a mesma chance de qualquer outra: 1 em 50.063.860 (Caixa).\n\nSe você acredita que vai ganhar, digita EU ACREDITO nos comentários.\n\nConteúdo informativo e educativo, não é incentivo a apostas. Jogos de azar: +18.\n\nFontes: Caixa (API oficial da Mega-Sena, concursos 3035 a 3085, e página da Mega-Sena); gov.br/Secom (Caixa desmente fake news sobre a Mega da Virada, 26/12/2023); Aratuon (11/01/2026).\n\nSegue o canal para ver como outras contas funcionam.\n\n#megasena #loteria #matematica #probabilidade #curiosidades",
+    "status": "pendente"
+  },
+  {
     "id": "mega-sena-bolao",
     "slug": "mega-sena-bolao",
     "titulo": "Mega-Sena: o bolão",
@@ -118,15 +128,5 @@
     "cover_url": "https://augustofernandesdev7.github.io/cfi-reels/mega-sena-nao-resgatado/capa.jpg",
     "caption": "Você sabe quantos milhões de prêmios da loteria ninguém foi buscar?\n\nEm 2025, foram R$ 474,8 milhões em prêmios prescritos repassados ao Fies (Caixa, relatório Sorte em Números 2025). A conta do canal: isso dá mais de R$ 1,3 milhão por dia, ou cerca de R$ 903 por minuto.\n\nO que acontece com um prêmio que ninguém busca, passo a passo:\n1. O prêmio pode ser resgatado em até 90 dias corridos depois do sorteio, segundo a Caixa.\n2. Passado o prazo, o prêmio prescreve e o valor é repassado ao Fies, o fundo de financiamento estudantil (Lei 13.756/2018, segundo a Caixa).\n3. De 2016 a 2025, foram mais de R$ 4 bilhões em prêmios prescritos, segundo dados da Caixa divulgados pelo BNLData (março de 2026).\n4. Um caso conhecido: na Mega da Virada de 2020, uma das duas apostas vencedoras, de R$ 162,6 milhões, não foi resgatada. O prazo acabou em 31 de março de 2021 e o valor foi para o Fies (CNN Brasil, com a Agência Brasil).\n\nComo evitar a perda:\n- Confira o bilhete no aplicativo Loterias Caixa, que lê o código de barras com a câmera.\n- Na aposta de papel, a Caixa recomenda escrever nome completo e CPF no verso do recibo.\n- Para resgatar, leve o recibo original e um documento com CPF.\n\nConfere seus bilhetes antigos e manda para quem joga.\n\nConteúdo informativo, não é incentivo a apostas. Jogos de azar: +18.\n\nFontes: Caixa (Sorte em Números 2025; aplicativo Loterias Caixa; Caixa Notícias); BNLData (17/03/2026); CNN Brasil (01/04/2021); Gazeta do Povo (29/04/2026).\n\nSegue o canal para ver como outras contas funcionam.\n\n#loteria #megasena #curiosidades #dinheiro #economia",
     "status": "pendente"
-  },
-  {
-    "id": "mega-sena-repetidos",
-    "slug": "mega-sena-repetidos",
-    "titulo": "Mega-Sena: números repetidos",
-    "publish_at": "2026-11-15T21:00:00-03:00",
-    "video_url": "https://augustofernandesdev7.github.io/cfi-reels/mega-sena-repetidos/video.mp4",
-    "cover_url": "https://augustofernandesdev7.github.io/cfi-reels/mega-sena-repetidos/capa.jpg",
-    "caption": "Por que sempre saem números repetidos na Mega-Sena? A conta que desfaz a desconfiança\n\nA conta do canal: a chance de pelo menos um dos 6 números do sorteio anterior sair de novo é 1 - C(54,6)/C(60,6) = 1 - 25.827.165 / 50.063.860 = 48,4%. Ou seja, quase metade dos sorteios repete algum número. Repetir exatamente 1 número: 37,9%; 2: 9,5%; 3 ou mais: 1,0% (conferido em Python). Média esperada: 6 x 6/60 = 0,6 número repetido por sorteio.\n\nDados reais (API oficial da Caixa, concursos 3035 a 3085): nos últimos 50 sorteios, cada um comparado com o anterior, houve 31 números repetidos (média de 0,62) e 25 sorteios com pelo menos um repetido (50%). Nos últimos 20, a média foi 0,4: com poucos sorteios, o resultado oscila.\n\nNúmero atrasado não existe na conta: cada sorteio é independente. Segundo a Caixa, as bolas são de borracha maciça, com 66 g e 50 mm, e auditores independentes e um instituto de metrologia acompanham os sorteios (Caixa, via gov.br/Secom). O sorteio também sai ao vivo na internet (Aratuon, 11/01/2026). A sequência 1-2-3-4-5-6 tem a mesma chance de qualquer outra: 1 em 50.063.860 (Caixa).\n\nSe você acredita que vai ganhar, digita EU ACREDITO nos comentários.\n\nConteúdo informativo e educativo, não é incentivo a apostas. Jogos de azar: +18.\n\nFontes: Caixa (API oficial da Mega-Sena, concursos 3035 a 3085, e página da Mega-Sena); gov.br/Secom (Caixa desmente fake news sobre a Mega da Virada, 26/12/2023); Aratuon (11/01/2026).\n\nSegue o canal para ver como outras contas funcionam.\n\n#megasena #loteria #matematica #probabilidade #curiosidades",
-    "status": "cancelado"
   }
 ]
