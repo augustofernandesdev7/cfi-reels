@@ -120,6 +120,16 @@
     "status": "cancelado"
   },
   {
+    "id": "mega-sena-3086",
+    "slug": "mega-sena-3086",
+    "titulo": "Mega-Sena 3086",
+    "publish_at": "2026-11-15T16:00:00-03:00",
+    "video_url": "https://augustofernandesdev7.github.io/cfi-reels/mega-sena-3086/video.mp4",
+    "cover_url": "https://augustofernandesdev7.github.io/cfi-reels/mega-sena-3086/capa.jpg",
+    "caption": "Mega-Sena 3086: saiu 03, 20, 35, 38, 43 e 46. E agora?\n\nA sena acumulou de novo, segundo portais de notícias (o concurso 3085 também ficou sem ganhador, segundo a Caixa). O próximo sorteio, o concurso 3087, deve ser na terça-feira, 17/11.\n\nA conta do canal: toda sequência de seis dezenas tem a mesma chance, 1 em 50.063.860 (Caixa), até 01-02-03-04-05-06. E a chance de pelo menos uma dezena do sorteio anterior se repetir é de cerca de 48% (1 menos C(54,6) dividido por C(60,6)); de nenhuma se repetir, cerca de 52%. No concurso 3085 saíram 10, 27, 29, 37, 39 e 59 (Caixa); desta vez, nenhuma se repetiu.\n\nSe você acredita que vai ganhar, digita EU ACREDITO nos comentários.\n\nConteúdo informativo e educativo, não é incentivo a apostas. Jogos de azar: +18.\n\nFontes: Caixa (concurso 3085, chance da sena e calendário dos sorteios); portais de notícias (resultado do concurso 3086); conta do canal (combinações).\n\nManda para quem joga toda semana. Segue o canal para ver como outras contas funcionam.\n\n#megasena #loteria #matematica #curiosidades #probabilidade",
+    "status": "pendente"
+  },
+  {
     "id": "mega-sena-nao-resgatado",
     "slug": "mega-sena-nao-resgatado",
     "titulo": "Mega-Sena: o prêmio que ninguém buscou",
